@@ -3,4 +3,5 @@
   <Project Path="2-Decorator/2-Decorator.csproj" Id="6b30bd5a-93fc-41fe-bdad-c05e31bf4254" />
   <Project Path="3-Facade/3-Facade.csproj" Id="f022fd20-8516-409d-96e8-01f84719dfe6" />
   <Project Path="4-Strategy/4-Strategy.csproj" Id="9022944a-c024-4104-be5a-5f0fb022e825" />
+  <Project Path="5-Factory/5-Factory.csproj" Id="8131579c-0b10-4371-b9ea-47ded65ef069" />
 </Solution>
