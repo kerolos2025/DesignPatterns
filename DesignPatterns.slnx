@@ -7,4 +7,5 @@
   <Project Path="6-Adapter/6-Adapter.csproj" Id="5e268e8e-0a49-4f54-9f7d-de208f207b7e" />
   <Project Path="7-Builder/7-Builder.csproj" Id="b8e7f3dd-c708-4117-bffc-1ea1ccc2f5a1" />
   <Project Path="8-Observer/8-Observer.csproj" Id="411e52cf-a9e5-4830-b457-454264b47f3e" />
+  <Project Path="9-Outbox/9-Outbox.csproj" Id="421d2722-aeb1-439d-8939-7eddb368e11e" />
 </Solution>
